@@ -268,7 +268,7 @@ nav ul li a{
 }
 
 .cta-section {
-    background-image: url('Image\ 2/background.jpg');
+    background-image: url('./Image\ 2/background.jpg');
     background-size: cover;
     background-position: center;
     color:white;
